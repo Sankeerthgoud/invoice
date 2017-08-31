@@ -1,0 +1,10 @@
+com\rbs\scm\controller\InvoiceController.class
+com\rbs\scm\model\InvoiceItems.class
+com\rbs\scm\DAO\DataBaseConnection.class
+com\rbs\scm\DAO\DatabaseConnectionPostgreSQL.class
+com\rbs\scm\util\CustomMessage.class
+com\rbs\scm\model\Invoice.class
+com\rbs\scm\model\Product.class
+com\rbs\scm\model\Products_list.class
+com\rbs\scm\model\ProductInvoice.class
+com\rbs\scm\service\InvoiceService.class
